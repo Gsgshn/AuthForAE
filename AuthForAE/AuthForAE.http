@@ -1,0 +1,6 @@
+@AuthForAE_HostAddress = http://localhost:5038
+
+GET {{AuthForAE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
